@@ -28,7 +28,7 @@ html::-webkit-scrollbar-thumb {
 
 h1, h2 {
     margin: 0;
-    font-family: 'JetBrains Mono';
+    font-family: 'JetBrains Mono', 'Roboto Mono';
 }
 
 h2 {
